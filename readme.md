@@ -1,11 +1,13 @@
-#Node
+# Node
 
 1. use
 2. pros/cons
 
-#NVM(Node Version Manager)
+# NVM(Node Version Manager)
+
 NVM is a tool that allows us to download and install different different version of node.
-##npm
+
+## npm
 
 1. npm allow us to install packages.
 2. npm is easy to install.
@@ -49,3 +51,32 @@ NVM is a tool that allows us to download and install different different version
 #### Module ->
 
 modules are just encapsulated code.
+
+#### Shipped Modules->
+
+modules that comes already is shipped module.
+
+#### Remote Modules ->
+
+use modules from internet. !beware.
+
+### modules type ->
+
+1. custom.
+2. shipped.
+3. remote.
+
+# NPM
+
+CLI to manage remote modules.
+
+# yarn
+
+recently.
+
+Nodejs is single threaded event based asynchronous.
+
+callback pattern for async ->
+(error , result) => {}
+
+mime -> information about what type of file your server is sending to the consumer(browser) so the consumer knows how to render.
